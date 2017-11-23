@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-LockScreen.iml" filepath="$PROJECT_DIR$/Android-LockScreen.iml" />
+      <module fileurl="file://C:\Users\Shubham Bhama\Desktop\bhama2\Android-LockScreen-master\Android-LockScreen.iml" filepath="C:\Users\Shubham Bhama\Desktop\bhama2\Android-LockScreen-master\Android-LockScreen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Android-LockScreen-master.iml" filepath="$PROJECT_DIR$/Android-LockScreen-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

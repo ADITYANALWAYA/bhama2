@@ -7,4 +7,8 @@
     \n\n Note:\n
         After installed this app, when you press the home button,you should select this app as the launcher and choose "Always", otherwise this dialog will show again when press home button next time.
     </string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
 </resources>

@@ -29,7 +29,7 @@ public class LaunchActivity extends Activity {
                 Intent intent = new Intent();
                 intent.setClass(LaunchActivity.this, LockScreenService.class);
                 startService(intent);
-                Toast.makeText(LaunchActivity.this, "锁屏服务已启动，请先关闭屏幕然后再打开屏幕进行测试", Toast.LENGTH_SHORT).show();
+                Toast.makeText(LaunchActivity.this, "Starting LockScreen", Toast.LENGTH_SHORT).show();
 
                 finish();
             }
